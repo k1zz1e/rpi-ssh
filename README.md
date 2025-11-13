@@ -1,4 +1,4 @@
-# scripts
+# rpissh
 
 This is a BASH script for enabling SSH on my Rasperry Pi cluster. 
 
